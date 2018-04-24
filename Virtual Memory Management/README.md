@@ -1,5 +1,3 @@
-# Operating-System
-Simulation of Operating System in C++
 
 Load gcc version 6.2.0: module load gcc-6.2.0
 
@@ -21,5 +19,5 @@ Load gcc version 6.2.0: module load gcc-6.2.0
  w 8 (w means write operation on page 8)
  
  The output is Summary of Page Table, Frame Table, Per Process statistics and total statistics.
- 
-    
+ The Random File is used to generate random numbers for simulation
+  
