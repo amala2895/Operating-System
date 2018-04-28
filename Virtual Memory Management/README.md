@@ -24,6 +24,7 @@ Load gcc version 6.2.0: module load gcc-6.2.0
  
  To run the program 
  
- 1. make
- 2. ./mmu [-a<algo>] [-o<options>] [–f<num_frames>] inputfile randomfile 
+ 1. Load gcc version 6.2.0 - module load gcc-6.2.0
+ 2. make
+ 3. ./mmu [-a<algo>] [-o<options>] [–f<num_frames>] inputfile randomfile 
   
