@@ -10,7 +10,8 @@ Simulation of scheduling using Discrete Event Simulation. Following scheduling a
 The input is of the form <arrival time> <total cpu time> <cpu burst> <io burst>
   
 To run the program 
-1. make
-2. main [-s<schedspec>] inputfile randfile
+1. Load gcc version 6.2.0 - module load gcc-6.2.0
+2. make
+3. main [-s<schedspec>] inputfile randfile
   
   <schedspec> can be F, S, L, R<quantum>, P<quantum>
