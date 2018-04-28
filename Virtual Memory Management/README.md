@@ -20,4 +20,10 @@ Load gcc version 6.2.0: module load gcc-6.2.0
  
  The output is Summary of Page Table, Frame Table, Per Process statistics and total statistics.
  The Random File is used to generate random numbers for simulation
+ 
+ 
+ To run the program 
+ 
+ 1. make
+ 2. ./mmu [-a<algo>] [-o<options>] [–f<num_frames>] inputfile randomfile 
   
